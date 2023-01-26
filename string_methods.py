@@ -40,7 +40,7 @@ def is_a_question(a_string):
     """
     # YOUR CODE HERE
     return a_string[-1] == "?"
-    return a_string.endswith("?")
+    #return a_string.endswith("?")
 
 def remove_surrounding_whitespaces(a_string):
     """
